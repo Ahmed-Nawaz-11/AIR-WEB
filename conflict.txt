@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line1\nline2 from branch_b\nline3
+=======
+line1\nline2 from branch_a\nline3
+>>>>>>> branch_a
