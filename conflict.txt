@@ -1,1 +1,1 @@
-line1\nline2 original\nline3
+line1\nline2 from branch_b\nline3
